@@ -1,0 +1,6 @@
+Algorytm:
+
+Kamerka po wyszukaniu sylwetki kieruję silniczkami tak by sylwetka
+(zaznaczona kwadratem) pozostała w środku obrębu kamerki.
+Jeśli kwadrat wyjdzie poza obręb kamerki to silniczki obracają
+sie w tym kierunku w celu namierzenia.
